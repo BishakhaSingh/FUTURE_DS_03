@@ -1,0 +1,71 @@
+ Marketing Funnel & Conversion Performance Analysis
+
+📌 Project Overview
+
+This project analyzes bank marketing campaign data using Microsoft Power BI to understand customer responses, subscription outcomes, and conversion performance.
+
+The goal is to identify conversion patterns, evaluate contact channels, and recommend ways to improve future marketing campaigns.
+
+🎯 Project Objectives
+
+- Analyze overall marketing campaign performance.
+- Measure customer subscription and conversion rates.
+- Compare conversion performance across contact types.
+- Explore successful subscriptions by job and education.
+- Identify opportunities to improve customer targeting.
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- Data Visualization
+- Marketing Campaign Analysis
+
+📈 Key Performance Indicators (KPIs)
+
+Metric| Result
+Total Customers Contacted| 4,521
+Successful Subscriptions| 521
+Unsuccessful Subscriptions| 4,000
+Overall Conversion Rate| 11.52%
+Non-Conversion Rate| 88.48%
+Average Call Duration| 263.96 seconds
+
+📊 Dashboard Features
+
+- Campaign Performance Overview
+- Conversion Rate by Contact Type
+- Successful Subscriptions by Job
+- Successful Subscriptions by Education
+- Conversion Rate by Contact Month
+- Subscription Outcome Analysis
+
+🔍 Key Insights
+
+- A total of 4,521 customer records were analyzed.
+- 521 customers subscribed successfully, resulting in an overall conversion rate of 11.52%.
+- 4,000 customers did not subscribe, highlighting an opportunity to improve campaign effectiveness.
+- Conversion rates varied across contact types.
+- Customer and campaign characteristics can help guide future marketing strategies.
+
+💡 Recommendations
+
+- Evaluate contact channels based on their observed conversion performance.
+- Identify customer segments with stronger subscription rates.
+- Review call duration and campaign frequency alongside subscription outcomes.
+- Refine future campaigns using insights from customer response patterns.
+
+📁 Project Files
+
+- "FUTURE_DS_03_Marketing_Funnel_Analysis.pbix" — Interactive Power BI dashboard.
+
+👩‍💻 Project Information
+
+Internship Program: Future Interns
+Task: Task 3 — Marketing Funnel & Conversion Performance Analysis
+Domain: Data Science & Analytics
+Tool: Microsoft Power BI
+
+---
+
+This project was developed as part of a practical data analytics internship task
